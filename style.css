@@ -1,0 +1,36 @@
+body{
+    background-image: url("/images/purple.png");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+    font-family:"whereas", monospace;
+    color: white;
+}
+#abtme{
+    background-color: #008282;
+    border-style:dotted;
+    border-radius: 50px;
+    border-color:#2b0057;
+    padding: 20px;
+    text-align:center;
+}
+#like{
+    border-style: outset;
+    border-color:#400020;
+    border-radius:15px;
+    padding:5px;
+    background: linear-gradient(#77003c, #2b0057);
+    background-attachment:fixed;
+    text-align:center;
+}
+#things{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#jarley{
+    img{
+        float:left;
+    };
+}
