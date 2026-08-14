@@ -7,6 +7,7 @@ body{
     font-family:"whereas", monospace;
     color: white;
 }
+
 #abtme{
     background-color: #008282;
     border-style:dotted;
@@ -15,6 +16,7 @@ body{
     padding: 20px;
     text-align:center;
 }
+
 #like{
     border-style: outset;
     border-color:#400020;
@@ -24,18 +26,36 @@ body{
     background-attachment:fixed;
     text-align:center;
 }
+
 #jarley{
     img{
         float:left;
     };
 }
+
 a:link{
     color:white;
 }
+
 a:visited{
     color:grey;
 }
+
 #intro{
     text-align:center;
     text-shadow: 0px 0px 15px #008282;
+}
+
+#hehe{
+    text-align:center
+}
+#links{
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.fa-github{
+    color:white;
+}.fa-youtube{
+    color:#2b0057
 }
