@@ -62,3 +62,22 @@ a:visited{
     margin-left: auto;
     margin-right: auto;
 }
+#gristtt{
+    float:left;
+}
+#redmiles{
+    float:right;
+}
+.smoking{
+  display: flex;
+  outline: 1px solid #000;
+}
+
+.smoking video{
+  flex-grow: calc(var(--w) / var(--h));
+  width: 0;
+}
+.smoking img{
+  flex-grow: calc(var(--w) / var(--h));
+  width: 0;
+}
